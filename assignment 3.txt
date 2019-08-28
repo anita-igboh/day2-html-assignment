@@ -1,0 +1,11 @@
+           TEN HTML TAGS AND THEIR DEFINITIONS.
+1. <abbr>   Defines an abbreviation
+2. <bdi>    Isolates a part of text that might be formatted in a different direction from other text outside it
+3. <cite>   Defines the title of a work
+4. <ins>    Defines a text that has been inserted into a document
+5. <mark>   Defines marked or highlighted text
+5. <small>  Defines smaller text
+7. <sup>    Defines subscripted text
+8. <time>   Defines date and time
+9. <output>  Defines the result of a calculation
+10. <sub>    Defines subscripted text
